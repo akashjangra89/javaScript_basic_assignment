@@ -1,0 +1,1 @@
+export const countries = ["India", "USA", "China", "Japan", "Pakistan", "Australia"]

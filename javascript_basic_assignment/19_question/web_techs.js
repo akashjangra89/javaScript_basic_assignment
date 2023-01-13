@@ -1,0 +1,1 @@
+export const webTech = ["React Developer", "JavaScript Developer", "Frontend Developer", "Backend Developer"]
